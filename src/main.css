@@ -42,6 +42,14 @@ a{
   color: #F6F6F6;
 }
 
+.grey-color{
+  color: #4D5053;
+}
+
+.grey-s-color{
+  color: #292F36;
+}
+
 /* GRID */
 
 .container{
@@ -78,6 +86,9 @@ a{
 
 .jc-space-bet{
   justify-content: space-between;
+}
+.jc-space-arr{
+  justify-content: space-around;
 }
 
 @media (max-width: 768px){
