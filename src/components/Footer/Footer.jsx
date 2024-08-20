@@ -44,8 +44,14 @@ function Footer() {
                             <p>(19) 99187-4342</p>
                         </div>
                     </div>
-
                 </div>
+                <div className='footer-copy d-flex jc-space-bet'>
+                        <p>Copyright © DNC - 2024</p>
+                        <div className='footer-lan d-flex jc-space-arr'>
+                            <img src={Brazuca} alt="erro" />
+                            <img src={Usa} alt="erro" />
+                        </div>
+                    </div>
             </div>
 
         </footer>

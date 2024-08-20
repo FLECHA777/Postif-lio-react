@@ -1,4 +1,5 @@
 import Header from '../components/Header/Header'
+import Footer from '../components/Footer/Footer'
 
 function Contact() {
     return (
@@ -6,6 +7,7 @@ function Contact() {
             <Header />
             <h1>Contact</h1>
             <p>Subtitle</p>
+            <Footer />
         </>
     )
 }
